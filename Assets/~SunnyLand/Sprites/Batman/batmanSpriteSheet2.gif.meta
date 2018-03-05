@@ -1,0 +1,2218 @@
+fileFormatVersion: 2
+guid: dc7027f0362485347950d7f9fe9a2deb
+timeCreated: 1520224337
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: batmanSpriteSheet2_0
+    21300002: batmanSpriteSheet2_1
+    21300004: batmanSpriteSheet2_2
+    21300006: batmanSpriteSheet2_3
+    21300008: batmanSpriteSheet2_4
+    21300010: batmanSpriteSheet2_5
+    21300012: batmanSpriteSheet2_6
+    21300014: batmanSpriteSheet2_7
+    21300016: batmanSpriteSheet2_8
+    21300018: batmanSpriteSheet2_9
+    21300020: batmanSpriteSheet2_10
+    21300022: batmanSpriteSheet2_11
+    21300024: batmanSpriteSheet2_12
+    21300026: batmanSpriteSheet2_13
+    21300028: batmanSpriteSheet2_14
+    21300030: batmanSpriteSheet2_15
+    21300032: batmanSpriteSheet2_16
+    21300034: batmanSpriteSheet2_17
+    21300036: batmanSpriteSheet2_18
+    21300038: batmanSpriteSheet2_19
+    21300040: batmanSpriteSheet2_20
+    21300042: batmanSpriteSheet2_21
+    21300044: batmanSpriteSheet2_22
+    21300046: batmanSpriteSheet2_23
+    21300048: batmanSpriteSheet2_24
+    21300050: batmanSpriteSheet2_25
+    21300052: batmanSpriteSheet2_26
+    21300054: batmanSpriteSheet2_27
+    21300056: batmanSpriteSheet2_28
+    21300058: batmanSpriteSheet2_29
+    21300060: batmanSpriteSheet2_30
+    21300062: batmanSpriteSheet2_31
+    21300064: batmanSpriteSheet2_32
+    21300066: batmanSpriteSheet2_33
+    21300068: batmanSpriteSheet2_34
+    21300070: batmanSpriteSheet2_35
+    21300072: batmanSpriteSheet2_36
+    21300074: batmanSpriteSheet2_37
+    21300076: batmanSpriteSheet2_38
+    21300078: batmanSpriteSheet2_39
+    21300080: batmanSpriteSheet2_40
+    21300082: batmanSpriteSheet2_41
+    21300084: batmanSpriteSheet2_42
+    21300086: batmanSpriteSheet2_43
+    21300088: batmanSpriteSheet2_44
+    21300090: batmanSpriteSheet2_45
+    21300092: batmanSpriteSheet2_46
+    21300094: batmanSpriteSheet2_47
+    21300096: batmanSpriteSheet2_48
+    21300098: batmanSpriteSheet2_49
+    21300100: batmanSpriteSheet2_50
+    21300102: batmanSpriteSheet2_51
+    21300104: batmanSpriteSheet2_52
+    21300106: batmanSpriteSheet2_53
+    21300108: batmanSpriteSheet2_54
+    21300110: batmanSpriteSheet2_55
+    21300112: batmanSpriteSheet2_56
+    21300114: batmanSpriteSheet2_57
+    21300116: batmanSpriteSheet2_58
+    21300118: batmanSpriteSheet2_59
+    21300120: batmanSpriteSheet2_60
+    21300122: batmanSpriteSheet2_61
+    21300124: batmanSpriteSheet2_62
+    21300126: batmanSpriteSheet2_63
+    21300128: batmanSpriteSheet2_64
+    21300130: batmanSpriteSheet2_65
+    21300132: batmanSpriteSheet2_66
+    21300134: batmanSpriteSheet2_67
+    21300136: batmanSpriteSheet2_68
+    21300138: batmanSpriteSheet2_69
+    21300140: batmanSpriteSheet2_70
+    21300142: batmanSpriteSheet2_71
+    21300144: batmanSpriteSheet2_72
+    21300146: batmanSpriteSheet2_73
+    21300148: batmanSpriteSheet2_74
+    21300150: batmanSpriteSheet2_75
+    21300152: batmanSpriteSheet2_76
+    21300154: batmanSpriteSheet2_77
+    21300156: batmanSpriteSheet2_78
+    21300158: batmanSpriteSheet2_79
+    21300160: batmanSpriteSheet2_80
+    21300162: batmanSpriteSheet2_81
+    21300164: batmanSpriteSheet2_82
+    21300166: batmanSpriteSheet2_83
+    21300168: batmanSpriteSheet2_84
+    21300170: batmanSpriteSheet2_85
+    21300172: batmanSpriteSheet2_86
+    21300174: batmanSpriteSheet2_87
+    21300176: batmanSpriteSheet2_88
+    21300178: batmanSpriteSheet2_89
+    21300180: batmanSpriteSheet2_90
+    21300182: batmanSpriteSheet2_91
+    21300184: batmanSpriteSheet2_92
+    21300186: batmanSpriteSheet2_93
+    21300188: batmanSpriteSheet2_94
+    21300190: batmanSpriteSheet2_95
+    21300192: batmanSpriteSheet2_96
+    21300194: batmanSpriteSheet2_97
+    21300196: batmanSpriteSheet2_98
+    21300198: batmanSpriteSheet2_99
+    21300200: batmanSpriteSheet2_100
+    21300202: batmanSpriteSheet2_101
+    21300204: batmanSpriteSheet2_102
+    21300206: batmanSpriteSheet2_103
+    21300208: batmanSpriteSheet2_104
+    21300210: batmanSpriteSheet2_105
+    21300212: batmanSpriteSheet2_106
+    21300214: batmanSpriteSheet2_107
+    21300216: batmanSpriteSheet2_108
+    21300218: batmanSpriteSheet2_109
+    21300220: batmanSpriteSheet2_110
+    21300222: batmanSpriteSheet2_111
+    21300224: batmanSpriteSheet2_112
+    21300226: batmanSpriteSheet2_113
+    21300228: batmanSpriteSheet2_114
+    21300230: batmanSpriteSheet2_115
+    21300232: batmanSpriteSheet2_116
+    21300234: batmanSpriteSheet2_117
+    21300236: batmanSpriteSheet2_118
+    21300238: batmanSpriteSheet2_119
+    21300240: batmanSpriteSheet2_120
+    21300242: batmanSpriteSheet2_121
+    21300244: batmanSpriteSheet2_122
+    21300246: batmanSpriteSheet2_123
+    21300248: batmanSpriteSheet2_124
+    21300250: batmanSpriteSheet2_125
+    21300252: batmanSpriteSheet2_126
+    21300254: batmanSpriteSheet2_127
+    21300256: batmanSpriteSheet2_128
+    21300258: batmanSpriteSheet2_129
+    21300260: batmanSpriteSheet2_130
+    21300262: batmanSpriteSheet2_131
+    21300264: batmanSpriteSheet2_132
+    21300266: batmanSpriteSheet2_133
+    21300268: batmanSpriteSheet2_134
+    21300270: batmanSpriteSheet2_135
+    21300272: batmanSpriteSheet2_136
+    21300274: batmanSpriteSheet2_137
+    21300276: batmanSpriteSheet2_138
+    21300278: batmanSpriteSheet2_139
+    21300280: batmanSpriteSheet2_140
+    21300282: batmanSpriteSheet2_141
+    21300284: batmanSpriteSheet2_142
+    21300286: batmanSpriteSheet2_143
+    21300288: batmanSpriteSheet2_144
+    21300290: batmanSpriteSheet2_145
+    21300292: batmanSpriteSheet2_146
+    21300294: batmanSpriteSheet2_147
+    21300296: batmanSpriteSheet2_148
+    21300298: batmanSpriteSheet2_149
+    21300300: batmanSpriteSheet2_150
+    21300302: batmanSpriteSheet2_151
+    21300304: batmanSpriteSheet2_152
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1175
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1175
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1175
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1175
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1175
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1175
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1175
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1175
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1175
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_9
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1175
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_10
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1175
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1175
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_12
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1175
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_13
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1175
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1105
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1105
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1105
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1105
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1105
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_19
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1105
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_20
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1105
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1105
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1039
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1039
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1039
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1039
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1039
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1039
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_28
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1039
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_29
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1039
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 981
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 981
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 981
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 981
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_34
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 981
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 981
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_36
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 981
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 938
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 938
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 938
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_40
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 938
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 938
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_42
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 938
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_43
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 938
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 868
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_45
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 868
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_46
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 868
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_47
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 868
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_48
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 868
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 869
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_50
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 869
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 807
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 807
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_53
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 807
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_54
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 807
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_55
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 807
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_56
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 807
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 807
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_58
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 807
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_59
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 807
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 746
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_61
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 746
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_62
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 746
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_63
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 746
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_64
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 746
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_65
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 746
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_66
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 746
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_67
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 746
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_68
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 746
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_69
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 746
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 697
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_71
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 697
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 697
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_73
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 697
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_74
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 697
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_75
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 697
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_76
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 694
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 632
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_78
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 632
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_79
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 635
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_80
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 634
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 633
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_82
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 639
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_83
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 632
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 565
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_85
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 565
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_86
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 565
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 565
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_88
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 565
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_89
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 565
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 497
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_91
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 497
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_92
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 497
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_93
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 497
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_94
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 497
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_95
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 497
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_96
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 497
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_97
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 497
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_98
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 497
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_99
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 497
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_100
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 435
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_101
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 435
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_102
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 435
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_103
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 371
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_104
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 371
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_105
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 371
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_106
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 371
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_107
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 371
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_108
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 371
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_109
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 371
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_110
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 371
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_111
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 371
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 318
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_113
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 318
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_114
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 318
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_115
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 318
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_116
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 318
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_117
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 318
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_118
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 317
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_119
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 316
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_121
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 232
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_122
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 232
+        width: 27
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_123
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 232
+        width: 38
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_124
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 232
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 232
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_126
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 232
+        width: 25
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_127
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 232
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_128
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 164
+        width: 102
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_129
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 164
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_130
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 164
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_131
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 164
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_132
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 164
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_133
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_134
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 102
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_135
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 102
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_136
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 102
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_137
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 102
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_138
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 102
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_139
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 102
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_140
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 34
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_141
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 34
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_142
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 34
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_143
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 34
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_144
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 34
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_145
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 34
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_146
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 34
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_147
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 34
+        width: 68
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_148
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 34
+        width: 67
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_149
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 67
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_150
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4
+        width: 70
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_151
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4
+        width: 71
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: batmanSpriteSheet2_152
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3
+        width: 72
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
