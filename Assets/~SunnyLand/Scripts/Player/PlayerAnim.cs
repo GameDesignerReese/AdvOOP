@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace SunnyLand.Player
 {
-    public class UserInput : MonoBehaviour
+    public class PlayerAnim : MonoBehaviour
     {
 
         // Use this for initialization
